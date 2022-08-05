@@ -1,0 +1,23 @@
+{
+  "name": "mini-koa",
+  "version": "1.0.0",
+  "description": "my mini koa",
+  "main": "./lib/application.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnsonZnl/mini-koa.git"
+  },
+  "author": "AnsonZnl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnsonZnl/mini-koa/issues"
+  },
+  "homepage": "https://github.com/AnsonZnl/mini-koa#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
